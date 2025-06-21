@@ -26,7 +26,7 @@ This repository contains the data cleaning and feature engineering script for We
 
 ## 📂 Contents
 - `week1_cleaning_script.py`: Finalized Python script for data cleaning
-- `Week1_Final_Cleaned_Featured.csv`: Output file (if added)
+- `Week1_Final_Cleaned_Featured.csv`: Output file
 
 ## ✅ Steps Performed
 - Missing value handling
