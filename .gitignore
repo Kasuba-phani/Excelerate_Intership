@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+*.egg-info/
+.Python
+build/
+dist/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+
+# Logs
+*.log
