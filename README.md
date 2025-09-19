@@ -1,3 +1,5 @@
+![Excelerate Internship — Student Engagement & Churn Prediction](excelerate_banner.png)
+
 # 📊 Excelerate Internship: Student Engagement & Churn Prediction
 
 Welcome to the final project repository for the Excelerate Virtual Internship Program. This repository showcases a complete data science pipeline developed to understand student engagement patterns, predict churn behavior, and propose actionable strategies to improve retention.
