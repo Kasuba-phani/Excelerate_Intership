@@ -1,4 +1,4 @@
-![Excelerate Internship — Student Engagement & Churn Prediction](excelerate_banner.png)
+![Excelerate Internship — Student Engagement & Churn Prediction](excelerate_banner_1.png)
 
 # 📊 Excelerate Internship: Student Engagement & Churn Prediction
 
